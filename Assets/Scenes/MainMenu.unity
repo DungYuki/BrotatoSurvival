@@ -762,14 +762,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.4811321, g: 0.083971165, b: 0.083971165, a: 1}
+  m_Color: {r: 0.735849, g: 0.735849, b: 0.735849, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9aa4428c585128c44aae43e5a3d992af, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f2e5042ce45a30b4aac438003829cae8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1003,7 +1003,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &204303058
@@ -2598,14 +2598,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\tTrong qu\xE1 tr\xECnh anh tr\u1EDF v\u1EC1 phi c\u01A1 \u0111\u1EC3
-    b\xE1o t\xECnh h\xECnh v\u1EC1 tr\xE1i \u0111\u1EA5t, anh \u0111\xE3 b\u1ECB
-    nh\u1EEFng sinh v\u1EADt n\xE0y ph\xE1t hi\u1EC7n v\xE0 t\u1EA5n c\xF4ng anh
-    ta. V\u1EDBi kh\u1EA9u s\xFAng v\xE0 chi\u1EBFc \u0111\xE8n trong tay anh ph\u1EA3i
-    c\u1ED1 g\u1EAFng sinh t\u1ED3n \u0111\u1EC3 \u0111\u1EBFn phi thuy\u1EC1n c\u1EE7a
-    m\xECnh \u0111\u1EC3 y\xEAu c\u1EA7u c\u1EE9u vi\u1EC7n t\u1EEB tr\xE1i \u0111\u1EA5t.
-    Anh ph\u1EA3i c\u1ED1 g\u1EAFng s\u1ED1ng s\xF3t c\xE0ng l\xE2u cho \u0111\u1EBFn
-    khi con t\xE0u g\u1EA7n nh\u1EA5t \u0111\u1EBFn gi\u1EA3i c\u1EE9u anh ta."
+  m_text: "\tTrong qu\xE1 tr\xECnh t\xECm c\xE1ch tho\xE1t ra, anh ta \u0111\xE3
+    \u0111\u1EC3 nh\u1EEFng sinh linh nh\u01B0 zombie n\xE0y ph\xE1t hi\u1EC7n v\xE0
+    t\u1EA5n c\u1ED1ng m\xECnh. Anh ta ph\u1EA3i c\u1ED1 g\u1EAFng h\u1EBFt s\u1EE9c
+    ti\xEAu di\u1EC7t nh\u1EEFng sinh linh tr\xEAn h\xE0nh tinh n\xE0y v\xE0 \u0111\u1ED3ng
+    th\u1EDDi c\u1ED1 g\u1EAFng tho\xE1t kh\u1ECFi c\u0103n h\u1EA7m v\xE0 tr\u1EDF
+    v\u1EC1 con t\xE0u c\u1EE7a anh ta \u0111\u1EC3 b\xE1o t\xECnh h\xECnh v\u1EC1
+    tr\xE1i \u0111\u1EA5t v\xE0 y\xEAu c\u1EA7u gi\u1EA3i c\u1EE9u b\u1EA3n th\xE2n."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7571e0cf90e027844bb0a0a172d025a7, type: 2}
   m_sharedMaterial: {fileID: 1751406141915010553, guid: 7571e0cf90e027844bb0a0a172d025a7, type: 2}
@@ -2671,7 +2670,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &755557320
@@ -6393,9 +6392,10 @@ MonoBehaviour:
     \u0111\u1ED9t ph\xE1t c\u1EE7a nh\xE2n lo\u1EA1i trong c\xF4ng cu\u1ED9c t\xECm
     ki\u1EBFm h\xE0nh t\xECnh ph\xF9 h\u1EE3p cho con ng\u01B0\u1EDDi sinh s\u1ED1ng.
     Nh\u01B0ng khi anh ta t\xECm ki\u1EBFm s\xE2u h\u01A1n v\u1EC1 h\xE0nh tinh n\xE0y
-    th\xEC anh ph\xE1t hi\u1EC7n nh\u1EEFng sinh linh tr\xEAn h\xE0nh tinh n\xE0y
-    d\u01B0\u1EDDng nh\u01B0 \u0111\xE3 d\xEDnh ph\u1EA3i lo\u1EA1i virus n\xE0o
-    \u0111\xF3 v\xE0  tr\u1EDF n\xEAn gi\u1ED1ng zombie."
+    th\xEC anh \u0111\xE3 b\u1ECB m\u1EAFc k\u1EB9t trong m\u1ED9t c\u0103n h\u1EA7m
+    nh\u01B0ng anh \u0111\xE3 ph\xE1t hi\u1EC7n nh\u1EEFng sinh linh tr\xEAn h\xE0nh
+    tinh n\xE0y d\u01B0\u1EDDng nh\u01B0 \u0111\xE3 d\xEDnh ph\u1EA3i lo\u1EA1i virus
+    n\xE0o \u0111\xF3 v\xE0  tr\u1EDF n\xEAn gi\u1ED1ng zombie."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7571e0cf90e027844bb0a0a172d025a7, type: 2}
   m_sharedMaterial: {fileID: 1751406141915010553, guid: 7571e0cf90e027844bb0a0a172d025a7, type: 2}
@@ -6461,7 +6461,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1671987605
